@@ -1,8 +1,0 @@
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\MovieManagment\obj\Debug\MovieManagment.csproj.AssemblyReference.cache
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\MovieManagment\obj\Debug\MovieManagment.csproj.SuggestedBindingRedirects.cache
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\MovieManagment\obj\Debug\MovieManagment.csproj.CoreCompileInputs.cache
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\MovieManagment\bin\Debug\MovieManagment.exe.config
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\MovieManagment\bin\Debug\MovieManagment.exe
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\MovieManagment\bin\Debug\MovieManagment.pdb
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\MovieManagment\obj\Debug\MovieManagment.exe
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\MovieManagment\obj\Debug\MovieManagment.pdb
